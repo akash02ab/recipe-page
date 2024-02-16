@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Outfit';
-  src: url(/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+  src: url(assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
 }
 
 @font-face {
   font-family: 'Young-serif';
-  src: url(/assets/fonts/young-serif/YoungSerif-Regular.ttf);
+  src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
 }
 
 * {
