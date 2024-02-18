@@ -113,12 +113,15 @@ hr {
   @media screen and (max-width: 768px) {
     margin: 0 24px;
   }
-  h3 {
+  h2 {
+    font-family: 'Outfit';
+    font-weight: 600;
+    font-size: 20px;
     color: var(--dark-raspberry);
   }
 
   ul {
-    margin-left: 24px;
+    margin-left: 32px;
 
     li {
       margin-top: 12px;
@@ -151,7 +154,7 @@ hr {
       list-style-position: outside;
       padding: 0 20px;
       margin-top: 12px;
-      margin-left: 20px;
+      margin-left: 24px;
 
       &::marker {
         color: var(--nutmeg);
