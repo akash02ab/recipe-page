@@ -30,8 +30,8 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/recipe-page-solution-mobile-responsive-q1Nbfe65Fn)
+- [Live Site URL](https://recipe-page-v1.netlify.app/)
 
 ### Built with
 
